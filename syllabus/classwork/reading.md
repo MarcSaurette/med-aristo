@@ -4,6 +4,8 @@ Instead of having the bookstore order physical books to campus, we will instead 
 
 {% hint style="info" %}
 You need to make a minimum of three annotations per reading assignment on Perusall. There will usually be more than one reading assignment per week.&#x20;
+
+Even if you choose to do the reading offline, you will need to login to post annotations for each reading.&#x20;
 {% endhint %}
 
 Perusall will also act as a repository for readings, images and maps that we will use in class.&#x20;
