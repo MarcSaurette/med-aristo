@@ -10,7 +10,7 @@ Perusall will also act as a repository for readings, images and maps that we wil
 
 Both the lectures and the game scenarios depend on your having done preparatory readings, in order to be able to be properly informed. Making annotations on Perusall offer a way for you to engage with the texts more deeply (a form of slow reading), but also acts for me as a surrogate marker that you have properly prepared for class.&#x20;
 
-**Assessment**: (20% of final grade) Each reading assignment will be assessed as either unsatisfactory, satisfactory,  or complete. A reading assignment is completed satisfactorily when you have made the minimum number of annotations (3 per reading assignment). If you make a minimum of six thoughtful and reflective annotations, you can be assessed as excellent.&#x20;
+**Assessment**: (15% of final grade) Each reading assignment will be assessed as either unsatisfactory, satisfactory,  or complete. A reading assignment is completed satisfactorily when you have made the minimum number of annotations (3 per reading assignment). If you make a minimum of six thoughtful and reflective annotations, you can be assessed as excellent.&#x20;
 
 0 points: Unsatisfactory
 

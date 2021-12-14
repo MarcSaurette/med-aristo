@@ -17,6 +17,7 @@
   * [Character Description](syllabus/classwork/character-description.md)
   * [Game Texts](syllabus/classwork/game-texts.md)
   * [Speech](syllabus/classwork/speech.md)
+  * [Take Home Exam](syllabus/classwork/take-home-exam.md)
 * [Assessment](syllabus/assessment.md)
 
 ## Digital Tools

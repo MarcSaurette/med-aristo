@@ -4,7 +4,7 @@ This component measures your degree of involvement in the course – attending c
 
 At the end of term, students will assign themselves (and have to justify in writing based on a template provided) a grade for participation based on conditions to be distributed. Your participation mark will also be somewhat determined by your teammates – they will have a chance to honour the active participants and shame the passive ones.
 
-**Assessment**: self-assessed based on provided criteria, 30% of final grade
+**Assessment**: self-assessed based on provided criteria, 25% of final grade
 
 You will be asked to evaluate your own participation for this class. The following is a rough guide for thinking about our expectations:
 

@@ -10,9 +10,10 @@ Your final mark will assessed based on your completion of the following coursewo
 
 | Assignment Type       | Relative Weight |
 | --------------------- | --------------- |
-| Reading               | 20%             |
-| Participation         | 30%             |
+| Reading               | 15%             |
+| Participation         | 25%             |
 | Student Profile       | 5%              |
 | Character Description | 15%             |
 | Game Texts            | 15%             |
 | Speech                | 15%             |
+| Take Home Exam        | 10%             |
