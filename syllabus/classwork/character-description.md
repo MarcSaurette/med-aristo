@@ -6,9 +6,8 @@ At minimum, your profile should note the name, station, motivations (but **do no
 
 #### Requirements:&#x20;
 
-1200 words minimum
-
-One paragraph
+1200 words minimum; more details to come.
 
 #### **Assessment**:&#x20;
 
+Assessment will be based on the student's ability to undertake and communicate detailed research on their character. Due to the limitations of source materials, little is generally known about Merovingian individuals and little historical background exists even for individuals named and described by Gregory of Tours, so the historian/medievalist must always use some imagination to fill in the blanks. In the case of generic characters (e.g. Frankish Warrior X), the need for balancing imaginative creativity and researched historical plausability is even more difficult.&#x20;

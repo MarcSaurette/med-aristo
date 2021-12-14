@@ -15,5 +15,5 @@ Your final mark will assessed based on your completion of the following coursewo
 | Student Profile       | 5%              |
 | Character Description | 15%             |
 | Game Texts            | 15%             |
-| Speech                | 15%             |
-| Take Home Exam        | 10%             |
+| Speech                | 10%             |
+| Take Home Exam        | 15%             |
