@@ -9,8 +9,8 @@
 
 * [Your Professor, Marc](syllabus/your-professor-marc.md)
 * [Learning Outcomes](syllabus/learning-outcomes.md)
-* [Game-based learning](syllabus/game-based-learning/README.md)
-  * [Divided Kingdom](syllabus/game-based-learning/divided-kingdom.md)
+* [Game-based learning](syllabus/game-based-learning.md)
+  * [Divided Kingdoms](syllabus/game-based-learning/divided-kingdoms.md)
 * [Classwork](syllabus/classwork/README.md)
   * [Reading](syllabus/classwork/reading.md)
   * [Participation](syllabus/classwork/participation.md)
