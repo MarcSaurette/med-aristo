@@ -1,5 +1,9 @@
 # How to join class
 
+{% hint style="danger" %}
+This syllabus is composed with the assumption that we will be attending class in person. If this situation changes, some aspects of the course might need to change.&#x20;
+{% endhint %}
+
 Our course will be taught on campus in room 360 in Tory Building on Mondays and Wednesdays from 11h30-13h00. But our classes will be anything but a lecture course with the professor droning on. After introductory sessions, our class will simulate (through gameplay) the aristocratic world of sixth-century Frankish Gaul – which means you will become a king or queen, a Frankish warrior or Gallo-Roman aristocrat, a bishop, or abbot/abbess for a few hours each week. By inhabiting these characters, students will experience and thus learn about the complex dynamics of Merovingian power politics.
 
 {% hint style="info" %}
