@@ -4,7 +4,7 @@ In HIST3005, students will be asked to create a digital portfolio related to top
 
 To navigate directly to our cuPortfolio HIST3005 Group, enter this URL:&#x20;
 
-<mark style="color:red;">to be added</mark>&#x20;
+[https://cuportfolio.carleton.ca/group/view.php?id=50705](https://cuportfolio.carleton.ca/group/view.php?id=50705)
 
 Instruction and on-going support in using cuPortfolio will be provided initially by Marc Saurette. Additional support is available from the Education and Development Centre. For more on cuPortfolio, see [http://carleton.ca/cuportfoliosupport/](http://carleton.ca/cuportfoliosupport/)​
 
