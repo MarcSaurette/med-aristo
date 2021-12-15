@@ -18,7 +18,7 @@ Do not create a Group Page or a Group Collection. This means that anyone in the 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-MExBl9jFZU1by\_kBkwg%2F-MExFOAp8VQTSFYH9f7a%2FScreen%20Shot%202020-08-17%20at%2012.19.55%20PM.png?alt=media\&token=7ccc876a-e864-4c36-8a85-db02d87ea9f4)
 
-4\. Scroll down the page and locate "Shared Collections". Find the Collection names "Your Name Here's Portfolio 2022" and click on it. Make sure the one you are clicking on is authored by me (Marc Saurette) not anyone else who copied the collection but forgot to rename it.
+4\. Scroll down the page and locate "Shared Collections". Find the Collection names "Your Name Here's Portfolio 2022" and click on it. Make sure the one you are clicking on is authored by me (Marc Saurette) not anyone else who copied the collection but forgot to rename it. Or [follow this link](https://cuportfolio.carleton.ca/view/view.php?id=509429).&#x20;
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-MExBl9jFZU1by\_kBkwg%2F-MExFqMbi6KhKApOSfi1%2FScreen%20Shot%202020-08-17%20at%2012.20.04%20PM.png?alt=media\&token=55c2f8b1-3ca8-4e51-9650-ccd1ad610263)
 
