@@ -26,6 +26,8 @@ In addition to the character backstory, try to consider the following:
 * **Papal envoys**: Who is a typical envoy/ legate from the bishop of Rome (pope?) have? What is papal policy towards the Merovingians? What kind of power do they wield?
 * **Byzantine envoys**: Who is a typical envoy from the Emperor Justinian or later Justin? How would a typical Byzantine noble/ bureaucrat feel about the west? About “Barbarian kings”? How might that hamper their position and bargaining position? What are Byzantine attitudes towards the Franks in the aftermath of Justinian’s reconquest of Italy?
 
+You also need to append an annotated bibliography, in which, at minimum, you provide summaries/annotations of a monograph, a scholarly article and a primary source. Other than these three, any other works you use need to be fully cited (Chicago style), but do not need to be commented on.&#x20;
+
 #### **Assessment**:&#x20;
 
 Assessment will be based on the student's ability to undertake and communicate detailed research on their character. Due to the limitations of source materials, little is generally known about Merovingian individuals and little historical background exists even for individuals named and described by Gregory of Tours, so the historian/medievalist must always use some imagination to fill in the blanks. In the case of generic characters (e.g. Frankish Warrior X), the need for balancing imaginative creativity and researched historical plausability is even more difficult. Your character biography will be assessed based on your ability to show research or to make informed leaps of judgement to fill in the blanks.&#x20;

@@ -15,7 +15,7 @@
   * [Reading](syllabus/classwork/reading.md)
   * [Participation](syllabus/classwork/participation.md)
   * [Student Profile](syllabus/classwork/student-profile.md)
-  * [Character Description](syllabus/classwork/character-description/README.md)
+  * [Character Description](syllabus/classwork/character-description.md)
     * [Character Biography Examples](syllabus/classwork/character-description/character-biography-examples.md)
   * [Game Texts](syllabus/classwork/game-texts.md)
   * [Speech](syllabus/classwork/speech.md)
