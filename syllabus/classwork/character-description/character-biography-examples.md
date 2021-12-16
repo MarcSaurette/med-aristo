@@ -2,7 +2,7 @@
 
 ### Example A**.**
 
-Example of Generic Profile (NB: the example is taken from another educational game from a different time period). In contrast to the below examples, yours should also include citations for sources used.&#x20;
+_Example of Generic Profile (NB: the example is taken from another educational game from a different time period). In contrast to the below examples, yours should also include citations for sources used._&#x20;
 
 **Name: A German Knight**&#x20;
 
