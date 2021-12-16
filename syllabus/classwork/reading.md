@@ -12,13 +12,15 @@ Perusall will also act as a repository for readings, images and maps that we wil
 
 Both the lectures and the game scenarios depend on your having done preparatory readings, in order to be able to be properly informed. Making annotations on Perusall offer a way for you to engage with the texts more deeply (a form of slow reading), but also acts for me as a surrogate marker that you have properly prepared for class.&#x20;
 
+In the reading list (see [schedule](../../schedule.md)), you will see I have often marked reading for specific classes as "Character specific reading". This means that you need to find and read and annotate on Perusall a reading of your choice (so as to give you information necessary to fulfill your character objectives/plans).
+
 **Assessment**: (15% of final grade) Each reading assignment will be assessed as either unsatisfactory, satisfactory,  or complete. A reading assignment is completed satisfactorily when you have made the minimum number of annotations (3 per reading assignment). If you make a minimum of six thoughtful and reflective annotations, you can be assessed as excellent.&#x20;
 
-0 points: Unsatisfactory
-
-1 point: Satisfactory
-
-2 points: Excellent
+| Assessment     | Point Value |
+| -------------- | ----------- |
+| Unsatisfactory | 0           |
+| Satisfactory   | 1           |
+| Excellent      | 2           |
 
 At the end of term, the points are added up and divided by the number of reading assignments.&#x20;
 
