@@ -1,7 +1,7 @@
 # MS Teams
 
 {% hint style="danger" %}
-We will not be using Teams unless we are forced into online learning by the Omicron variant - if we need to have an online learning portal, it will be less cumbersome than using Slack + Zoom every class.&#x20;
+We are now using Teams since we have been forced into online learning by the Omicron variant.&#x20;
 {% endhint %}
 
 _**Teams**_ is one of the many "enterprise tools" you might be using (i.e. digital tools/ apps that businesses use to manage projects and keep in communication). We're adapting it to the educational environment to take advantage the relative ease of communication that it provides. Ideally, it will be a digital hub connecting different parts of the course. I hope that Teams makes it easy for you to get in contact with the professors, teaching assistant(s) and your fellow students. It also works on computers, mobile devices and most browsers so you can keep in contact with the class through the form of connection you want (mobile app, desktop software, email, texts...).

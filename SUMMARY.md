@@ -24,13 +24,13 @@
 
 ## Digital Tools
 
-* [Slack](digital-tools/slack.md)
-* [Zoom](digital-tools/zoom.md)
+* [MS Teams](digital-tools/ms-teams/README.md)
+  * [(really) Short Guide to MS Teams](digital-tools/ms-teams/really-short-guide-to-ms-teams.md)
 * [Perusall](digital-tools/perusall/README.md)
   * [Social Annotation](digital-tools/perusall/social-annotation.md)
 * [Hypothes.is](digital-tools/hypothes.is.md)
 * [Zotero](digital-tools/zotero.md)
 * [cuPortfolio](digital-tools/cuportfolio/README.md)
   * [Quick Guide to cuPortfolio](digital-tools/cuportfolio/quick-guide-to-cuportfolio.md)
-* [MS Teams](digital-tools/ms-teams/README.md)
-  * [(really) Short Guide to MS Teams](digital-tools/ms-teams/really-short-guide-to-ms-teams.md)
+* [Zoom](digital-tools/zoom.md)
+* [Slack](digital-tools/slack.md)

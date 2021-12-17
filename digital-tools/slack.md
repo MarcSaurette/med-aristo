@@ -1,5 +1,9 @@
 # Slack
 
+{% hint style="danger" %}
+Now using Teams, given the move to online learning announced on December 16th.&#x20;
+{% endhint %}
+
 To help with communication in this class, I want to try to avoid email, but instead will try to centralize communication through **Slack** (which I am told is similar to _Discord_). Slack is a group messenger application that can be installed on your phone and tablet, used on your browser or a desktop app. Via Slack, I will post class information and game updates, you can speak with your fellow students (and later, faction members), and you can also arrange small group video-conferencing if you want meet virtually with friends, allies or foes!
 
 1. Download desktop apps [here](https://slack.com/downloads/) and other versions depending on the OS of your mobile device.
