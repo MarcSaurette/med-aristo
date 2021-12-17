@@ -6,6 +6,6 @@ To navigate directly to our cuPortfolio HIST3005 Group, enter this URL:&#x20;
 
 [https://cuportfolio.carleton.ca/group/view.php?id=50705](https://cuportfolio.carleton.ca/group/view.php?id=50705)
 
-Instruction and on-going support in using cuPortfolio will be provided initially by Marc Saurette. Additional support is available from the Education and Development Centre. For more on cuPortfolio, see [http://carleton.ca/cuportfoliosupport/](http://carleton.ca/cuportfoliosupport/)​
+An introduction to using cuPortfolio will be provided initially by Marc Saurette. Additional (and better!) support is available from the Education and Development Centre. For more on cuPortfolio, see [http://carleton.ca/cuportfoliosupport/](http://carleton.ca/cuportfoliosupport/)​
 
-For a quick guide to getting started, take a look at the next page (click below). An introductory module produced by the university can [be accessed here](https://co-opcareercourse.ca/cuportfolio/secret-url/story.html).&#x20;
+For a quick guide to getting started, take a look at the next page (click below). An introductory module inlcuding a video introduction, produced by the university can [be accessed here](https://co-opcareercourse.ca/cuportfolio/secret-url/story.html).&#x20;

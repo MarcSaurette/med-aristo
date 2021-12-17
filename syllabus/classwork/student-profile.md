@@ -17,6 +17,8 @@ The point of the assignment is that your classmates will get to know you and hav
 
 **Assessment:**
 
+5% of final grade.
+
 If your profile meets the minimum requirements (as described above), you will receive a satisfactory (70%). If your profile shows real flair and hard work, it can be assessed as an excellent (100%).
 
 If you submit late, or fail to meet the minimum requirements, you will receive an unsatisfactory (0%)

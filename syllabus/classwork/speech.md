@@ -21,4 +21,4 @@ Please consult the following linked rubric for an idea of how you will be assess
 
 {% file src="../../.gitbook/assets/RTTP-Writing-Rubric (1).pdf" %}
 
-† A few characters have a role as chronicler, as so their written work will be assessed without being orally delivered (the marks assigned for the oral presentation will, in these rare cases) be lumped into the "game texts" marks.&#x20;
+† A few characters have a role as chronicler or court poet, so their written work will be assessed without being orally delivered (the marks assigned for the oral presentation will, in these rare cases) be lumped into the "game texts" marks.&#x20;

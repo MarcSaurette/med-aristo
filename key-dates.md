@@ -4,6 +4,8 @@
 
 **January 24th**: Basic _Character sheets_ will be assigned and distributed
 
+**February 1st:** Return to in person instruction?
+
 **February 7th**: Student researched _Character Profile_ is due
 
 **February 14th**: We begin, _Divided Kingdoms, 561._&#x20;
