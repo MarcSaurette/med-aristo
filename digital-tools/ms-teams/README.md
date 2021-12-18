@@ -3,7 +3,7 @@
 {% hint style="danger" %}
 We are now using Teams since we have been forced into online learning by the Omicron variant.&#x20;
 
-NB: This class will only work if we are all comfortable **keeping our cameras** **on** so that we can see each other. Otherwise, we'll feel to disconnected to get comfortable with one another.&#x20;
+NB: This class will only work if we are all comfortable **keeping our cameras** **on** so that we can see each other. Otherwise, we'll feel too disconnected to get comfortable with one another.&#x20;
 {% endhint %}
 
 _**Teams**_ is one of the many "enterprise tools" you might be using (i.e. digital tools/ apps that businesses use to manage projects and keep in communication). We're adapting it to the educational environment to take advantage the relative ease of communication that it provides. Ideally, it will be a digital hub connecting different parts of the course. I hope that Teams makes it easy for you to get in contact with the professors, teaching assistant(s) and your fellow students. It also works on computers, mobile devices and most browsers so you can keep in contact with the class through the form of connection you want (mobile app, desktop software, email, texts...).
