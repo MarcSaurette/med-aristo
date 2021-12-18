@@ -8,6 +8,8 @@ description: >-
 
 {% hint style="danger" %}
 On December 16th, Carleton announced that all university courses would move to online learning from January 10th until January 31st. The administration will then reevaluate, but past experience suggests that we might be online longer than expected. I am hoping that we might be able to have the introductory sessions virtually, and the game play in person .. but 🤷🏽‍♂️.&#x20;
+
+NB: This class will only work if we are all comfortable **keeping our cameras** **on** so that we can see each other. Otherwise, we'll feel to disconnected to get comfortable with one another.&#x20;
 {% endhint %}
 
 “It gives me no pleasure,” comments the sixth-century chronicler Gregory of Tours, “to write of all the various civil wars which afflicted the Frankish people and their rulers. What is even worse, we now seem to see the moment draw near which the Lord foretold when, “The father shall rise up against the son, the son against the father, brother against brother and kinsman against kinsman.” (_Historia Francorum_, V, i). This historian provides a rare glimpse of the Merovingian time period which largely lacks historical accounts (and thus few sources to corroborate or contradict his account). Gregory complains how, after the death of Clothar, his heirs fought ceaselessly amongst each other in bitter self-destructive wars and he condemns this state of affairs as contrary to God’s plan. He outlines the major events, elite individuals and key social structures of Merovingian Gaul in the second half of the sixth century. It is this world that the class seeks to inhabit.&#x20;
