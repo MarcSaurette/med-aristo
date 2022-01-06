@@ -8,4 +8,4 @@ As well, each round you will need to provide your faction leader (or assigned su
 
 **Assessment**:&#x20;
 
-Game texts will be assessed at the end of term, after the completion of the game. Students will compile a dossier on cuPortfolio, including the text/notes of their speech, any para-game texts (such as rumours, poems, panygerics), as well as any written discussion composed for online discussions (via Slack), which develop the game play.&#x20;
+Game texts will be assessed at the end of term, after the completion of the game. Students will compile a dossier on cuPortfolio or Google docs (to be decided on collectively in class), including the text/notes of their speech, any para-game texts (such as rumours, poems, panygerics), as well as any written discussion composed for online discussions (via Slack), which develop the game play.&#x20;
