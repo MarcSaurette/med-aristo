@@ -21,6 +21,7 @@
   * [Speech](syllabus/classwork/speech.md)
   * [Take Home Exam](syllabus/classwork/take-home-exam.md)
 * [Assessment](syllabus/assessment.md)
+* [FASS Regulations](syllabus/fass-regulations.md)
 
 ## Digital Tools
 
